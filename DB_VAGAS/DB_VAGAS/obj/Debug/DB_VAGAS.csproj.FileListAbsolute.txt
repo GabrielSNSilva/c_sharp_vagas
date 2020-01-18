@@ -1,0 +1,10 @@
+c:\users\gabriel.snsilva2\source\repos\DB_VAGAS\DB_VAGAS\bin\Debug\DB_VAGAS.exe.config
+c:\users\gabriel.snsilva2\source\repos\DB_VAGAS\DB_VAGAS\bin\Debug\DB_VAGAS.exe
+c:\users\gabriel.snsilva2\source\repos\DB_VAGAS\DB_VAGAS\bin\Debug\DB_VAGAS.pdb
+c:\users\gabriel.snsilva2\source\repos\DB_VAGAS\DB_VAGAS\obj\Debug\DB_VAGAS.csprojResolveAssemblyReference.cache
+c:\users\gabriel.snsilva2\source\repos\DB_VAGAS\DB_VAGAS\obj\Debug\DB_VAGAS.gbCadastro.resources
+c:\users\gabriel.snsilva2\source\repos\DB_VAGAS\DB_VAGAS\obj\Debug\DB_VAGAS.Properties.Resources.resources
+c:\users\gabriel.snsilva2\source\repos\DB_VAGAS\DB_VAGAS\obj\Debug\DB_VAGAS.csproj.GenerateResource.cache
+c:\users\gabriel.snsilva2\source\repos\DB_VAGAS\DB_VAGAS\obj\Debug\DB_VAGAS.csproj.CoreCompileInputs.cache
+c:\users\gabriel.snsilva2\source\repos\DB_VAGAS\DB_VAGAS\obj\Debug\DB_VAGAS.exe
+c:\users\gabriel.snsilva2\source\repos\DB_VAGAS\DB_VAGAS\obj\Debug\DB_VAGAS.pdb
